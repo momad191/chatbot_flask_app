@@ -2,6 +2,7 @@ openai
 langchain
 chromadb
 flask
+flask_cors
 langchain-community
 langchain-openai
 langchain-chroma
