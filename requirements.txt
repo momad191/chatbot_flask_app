@@ -5,6 +5,7 @@ flask
 langchain-community
 langchain-openai
 langchain-chroma
+gunicorn
  
 
 
